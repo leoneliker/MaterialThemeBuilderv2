@@ -25,4 +25,4 @@
 ##### Cambio
 ![Imagen cambiada](https://github.com/leoneliker/MaterialThemeBuilderv2/blob/master/gradle/images/imgCambios3.PNG)
 ##### Cambio
-![Imagen cambiada](https://github.com/leoneliker/MaterialThemeBuilderv2/blob/master/gradle/images/imgCambios3.2.PNG)
+![Imagen cambiada](https://github.com/leoneliker/MaterialThemeBuilderv2/blob/master/gradle/images/imgCambios32.PNG)
