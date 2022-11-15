@@ -1,7 +1,7 @@
 # Cambios realizados por Iker Iturralde
 
 ## Cambio 1, color en el 
-[Activity Main](https://github.com/leoneliker/MaterialThemeBuilderv2/blob/master/README.md)
+[Activity Main](https://github.com/leoneliker/MaterialThemeBuilderv2/blob/master/app/src/main/res/layout/activity_main.xml)
 
 ##### Original
 ![Imagen original](https://github.com/leoneliker/MaterialThemeBuilderv2/blob/master/gradle/images/imgOriginal1.PNG)
