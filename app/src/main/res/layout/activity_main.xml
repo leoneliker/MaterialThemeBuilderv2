@@ -99,7 +99,7 @@
           android:layout_width="match_parent"
           android:layout_height="?actionBarSize"
           android:layout_gravity="bottom"
-          android:background="@android:color/transparent"
+          android:background="#ff0000"
           app:tabTextColor="?colorOnSurface"
           app:tabSelectedTextColor="?colorPrimary"
           app:tabIndicatorColor="?colorPrimary"
