@@ -7,3 +7,11 @@
 ![Imagen original](./images/imgOriginal1.PNG)
 ##### Cambio
 ![Imagen cambiada](./images/imgCambios1.PNG)
+
+## Cambio 2, color en el
+[Activity Main](https://github.com/leoneliker/MaterialThemeBuilderv2/blob/master/README.md)
+
+##### Original
+![Imagen original](./images/imgOriginal1.PNG)
+##### Cambio
+![Imagen cambiada](./images/imgCambios1.PNG)
