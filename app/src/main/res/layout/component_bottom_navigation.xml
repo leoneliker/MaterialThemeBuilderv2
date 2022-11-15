@@ -29,7 +29,7 @@
       android:id="@+id/label"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="@string/bottom_nav_label_title"
+      android:text="app bar menu"
       app:linkUrl="https://material.io/design/components/bottom-navigation.html"
       app:layout_constraintStart_toStartOf="parent"
       app:layout_constraintTop_toTopOf="parent" />
