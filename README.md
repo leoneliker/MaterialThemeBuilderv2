@@ -4,6 +4,6 @@
 [Activity Main](https://github.com/leoneliker/MaterialThemeBuilderv2/blob/master/README.md)
 
 ##### Original
-![Imagen original](./images/imgOriginal1.PNG)
+![Imagen original](images/imgOriginal1.PNG)
 ##### Cambio
-![Imagen cambiada](./images/imgCambios1.PNG)
+![Imagen cambiada](images/imgCambios1.PNG)
