@@ -20,9 +20,7 @@
   android:layout_width="match_parent"
   android:layout_height="wrap_content"
   android:clipToPadding="false"
-  android:paddingTop="@dimen/keyline_5"
-  android:paddingBottom="@dimen/keyline_5"
-  android:paddingStart="@dimen/keyline_4"
+  android:padding="35dp"
   android:paddingEnd="@dimen/keyline_4">
 
     <io.material.materialthemebuilder.widget.LabelLinkView
@@ -38,7 +36,7 @@
       android:id="@+id/bottom_navigation_view"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:layout_marginTop="@dimen/keyline_4"
+      android:layout_marginTop="150dp"
       app:menu="@menu/bottom_app_bar_menu"
       app:layout_constraintTop_toBottomOf="@+id/label"
       app:layout_constraintStart_toStartOf="parent"
